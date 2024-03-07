@@ -7,7 +7,7 @@ function preload() {
   font = loadFont('assets/fonts/Inconsolata/static/Inconsolata-Black.ttf');
   fontBold = loadFont('assets/fonts/Inconsolata/static/Inconsolata-ExtraBold.ttf');
   fontRoboto = loadFont('assets/fonts/Roboto/Roboto-Regular.ttf');
-  fontOjuju = loadfont ('assets/fonts/Ojuju/static/Ojuju-ExtraBold.ttf');
+  fontOjuju = loadFont ('assets/fonts/Ojuju/static/Ojuju-ExtraBold.ttf');
 }
 
 function setup() {
